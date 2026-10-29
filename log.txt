@@ -1,4 +1,14 @@
-commit 423ccc084fbdaf965db53c78b9c37e817ed267f1 (HEAD -> main, origin/main, origin/HEAD)
+commit 65a6b865f5f494240fb1ef8abc501642c195a4d7 (HEAD -> main, origin/main, origin/HEAD)
+Author: Raghav Dewangan <raghav.dewangan2004@gmail.com>
+Date:   Thu Oct 29 13:32:12 2026 -0700
+
+    log.txt fix ?
+
+diff --git a/log.txt b/log.txt
+index fbb3f6b..45ae2c0 100644
+Binary files a/log.txt and b/log.txt differ
+
+commit 423ccc084fbdaf965db53c78b9c37e817ed267f1
 Author: Raghav Dewangan <raghav.dewangan2004@gmail.com>
 Date:   Thu Oct 29 13:27:10 2026 -0700
 
@@ -15,6 +25,39 @@ Author: ChinmayB1 <chinmay.bharambe@gmail.com>
 Date:   Thu Oct 29 13:26:15 2026 -0700
 
     merge conflict resolved
+
+diff --git a/README.md b/README.md
+index f2f3999..63e9837 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,2 @@
+ # DSC180A-Methodology-3
+-Chinmay Bharambe
+-cbharambe@ucsd.edu
+\ No newline at end of file
++Chinmay Bharambe and Raghav Dewangan
+diff --git a/lec02.ipynb b/lec02.ipynb
+index 9ab8f53..f584ed9 100644
+--- a/lec02.ipynb
++++ b/lec02.ipynb
+@@ -393,7 +393,7 @@
+    "outputs": [],
+    "source": [
+     "# Exponentiation first!\n",
+-    "5 * 2 ** 3"
++    "3 * 4 ** 2"
+    ]
+   },
+   {
+@@ -403,7 +403,7 @@
+    "outputs": [],
+    "source": [
+     "# Multiplication first!\n",
+-    "(5 * 2) ** 3"
++    "(3 * 4) ** 2"
+    ]
+   },
+   {
 
 commit 659f055d6a6aec73c085fe006e3042c681b3ba7a
 Author: ChinmayB1 <chinmay.bharambe@gmail.com>
